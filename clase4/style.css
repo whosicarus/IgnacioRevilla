@@ -1,0 +1,58 @@
+.h1 {
+    text-align: center;
+    font-family: arial;
+    display: inline;
+    text-decoration: underline;
+    padding: .25em 0;
+    background: rgb(159, 177, 196);
+    color: black;
+    box-shadow: .5em 0 0 rgb(159, 177, 196), -.5em 0 0 rgb(159, 177, 196);
+}
+.white-box { 
+    align-self: center;
+    font-family: arial;
+    width: 60%;
+    height: 60%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    outline: solid; 
+}
+.blue {
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+}
+.green {
+    background: rgb(15, 199, 40);
+    color: black;
+    box-shadow: .2em 0 0 rgb(15, 199, 40), -.2em 0 0 rgb(15, 199, 40);
+}
+.orange{
+    color:rgb(206, 139, 15);
+    font-weight: bold;
+}
+.caption{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.yellow {
+    font-style: italic;
+    background: rgb(238, 220, 60);
+    color: black;
+    box-shadow: .2em 0 0 rgb(238, 220, 60), -.2em 0 0 rgb(238, 220, 60);
+}
+.red {
+    color:red
+}
+.cyan {
+    background: rgb(46, 211, 233);
+    color: black;
+    box-shadow: .2em 0 0 rgb(46, 211, 233), -.2em 0 0 rgb(46, 211, 233);
+}
+.crossed {
+    text-decoration: line-through;
+}
+.arial{
+    font-family: arial;
+}
