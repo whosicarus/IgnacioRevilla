@@ -1,0 +1,10 @@
+@import "body.css";
+@import "container.css";
+@import "header.css";
+@import "main.css";
+@import "aside.css";
+@import "article.css";
+@import "footer.css";
+* {
+box-sizing: border-box;
+} 
